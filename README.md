@@ -1,4 +1,4 @@
-# Spotify-Top-Hits-2000-2019-
+# Spotify-Top-Hits-2000-2019
 
 ## Project Introduction
 * This data project is an EDA project looking at data from Spotify's Top Hits from 2000 to 2019
