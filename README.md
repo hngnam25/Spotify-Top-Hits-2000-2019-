@@ -7,7 +7,7 @@
 ## Code and Resource used
 **Python Version:** 3.9
 * Packages: panda, numpy, matplotlib,seaborn, plotly
-* Warning: As plotly as html graphs that can not be displayed statically on Github, I highly advised that this project is downloaded. I will posting most of the plotly graph down below
+* Warning: As plotly as html graphs that can not be displayed statically on Github, I highly advised that this project is downloaded. I will posting most of the plotly graph down below and attach a static version for convenience sake!
 
 ## EDA Highlights
 Below are some of the highlight of the project
